@@ -6,6 +6,7 @@
 ### Como Instalar
 
 1) Abra o arquivo index.html
+
 2) Adicione a URL quando fizer upload o cri.kml
 
 ```sh
